@@ -5,5 +5,5 @@ int main() {
 	system("pause");
 	return 0;
 	//www东东哥不穿内裤
-
+	/
 }
