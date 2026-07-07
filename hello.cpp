@@ -4,6 +4,6 @@ int main() {
 	cout << "Hello world!" << endl;
 	system("pause");
 	return 0;
-	//www
+	//www东东哥不穿内裤
 
 }
